@@ -1,0 +1,8 @@
+Ok Mr .
+thank you for register at {{ site.name}}
+at domain http://{{site.domain}}{% url 'registration_activate' activation_key %}
+
+
+your link will expire after {{expiration_days}} please dont Panic its ok
+-Blog Team
+- Thank You Mr.
